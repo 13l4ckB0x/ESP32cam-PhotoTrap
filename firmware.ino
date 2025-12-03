@@ -9,10 +9,10 @@
 #include <WiFiClientSecure.h>
 
 // ----------- USER SETTINGS -----------
-const char* ssid     = "SSID";
-const char* password = "wifi-password";
-#define BOT_TOKEN    "token_your_bot"
-#define CHAT_ID      "chat_id"
+const char* ssid     = "YOUR_WIFI";
+const char* password = "YOUR_PASS";
+#define BOT_TOKEN    "123456:ABC..."
+#define CHAT_ID      "12345678"
 #define BUTTON_PIN   13
 #define FLASH_PIN    4
 // -------------------------------------
