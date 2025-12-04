@@ -1,9 +1,3 @@
-/*
-  ESP32-CAM Telegram UXGA Photo Trigger
-  Stable 1600×1200 capture without reboots
-  https://github.com/YOUR_GITHUB/esp32-cam-uxga-telegram
-*/
-
 #include "esp_camera.h"
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
